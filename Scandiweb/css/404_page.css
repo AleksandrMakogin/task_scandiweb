@@ -1,0 +1,15 @@
+
+
+.error{
+    width: 1500px;
+    height: 800px;
+
+}
+@media (max-width:767px) {
+    .error {
+        width: 340px;
+        height: 180px;
+        margin-top: 200px;
+
+    }
+}
